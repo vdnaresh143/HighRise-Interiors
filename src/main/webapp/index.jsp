@@ -1650,7 +1650,7 @@
   <!-- ══ END SLIDER ══ -->
   <div class="hero-content">
     <h1>Highrise Interior Economy made luxoury</h1>
-    <p>At High Rise Interior, we’ve been delivering innovative, functional, and beautiful spaces since 2019. Whether it's residential or commercial, our focus is always on trusted turnkey services and on-time execution.</p>
+    <p>At High Rise Interior, we have been delivering innovative, functional, and beautiful spaces since 2019. Whether it's residential or commercial, our focus is always on trusted turnkey services and on-time execution.</p>
     <div class="hero-ctas">
       <a href="#footer" class="btn-primary">Book a Consultant</a>
       <a href="#portfolio" class="btn-outline">View Our Work</a>
